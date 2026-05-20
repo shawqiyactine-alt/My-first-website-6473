@@ -1,0 +1,17 @@
+h1 {
+font-family:Times New Roman;
+background-color: grey;
+width: 220px; 
+}
+button {
+background-color: green;
+}
+img {
+ background-color: black;
+ }
+ #link{
+ font: italic;
+ }
+ .italics{
+     font-style: italic;
+ }
